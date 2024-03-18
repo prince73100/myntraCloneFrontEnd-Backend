@@ -17,7 +17,7 @@ const Footer=()=>{
           <div className="footer_column">
             <h3>ONLINE SHOPPING</h3>
   
-            <a href="#">Men</a>
+            <a href="#">Mens</a>
             <a href="#">Women</a>
             <a href="#">Kids</a>
             <a href="#">Home & Living</a>
